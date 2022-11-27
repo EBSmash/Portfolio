@@ -2,7 +2,7 @@
   text-align: center;
 
 
-  border: 60px solid #d38366;
+  border: 60px solid #24496e;
 
 
   text-align: center;
@@ -27,7 +27,7 @@
 }
 
 .App-header {
-  background-color: #d38366;
+  background-color: #24496e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
